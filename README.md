@@ -1,5 +1,4 @@
 The objective of this task is to analyze sales data using SQL queries and extract meaningful business insights from a structured dataset.
-
 Tools Used
 
 MySQL (DB Fiddle Online)
